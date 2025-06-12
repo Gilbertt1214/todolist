@@ -46,7 +46,7 @@ function App() {
                         </div>
                     </div>
                     <h1 className="text-4xl font-bold text-gray-800 mb-2 bg-gradient-to-r from-indigo-600 to-blue-500 bg-clip-text text-transparent">
-                        TodoList App
+                        TodoList Sofii
                     </h1>
                     <p className="text-gray-600 text-lg">
                         Organize your tasks efficiently
